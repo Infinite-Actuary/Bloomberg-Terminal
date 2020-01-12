@@ -15,7 +15,7 @@ There are 12 :desktop_computer: Bloomberg Terminals located in the Trading Room 
 * COB104-L44
 * COB104-L49
 
-After launching the application from the Desktop and creating an account, type `BMC<GO>` to get **FREE** (normally $149 USD for students) access to the [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/) course.
+After launching the application from the Desktop and creating an account, type `BMC<GO>` > `7. Login` to get **FREE** (normally $149 USD for students) access to the [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/) course.
 
 > Bloomberg Market Concepts (BMC) is a self-paced e-learning course that provides an interactive introduction to the financial markets. BMC consists of 3 sections — Core Concepts (includes four modules – Economic Indicators, Currencies, Fixed Income, Equities), Getting Started on the Terminal and Portfolio Management. The sections are woven together from Bloomberg data, news, analytics and television.
 
