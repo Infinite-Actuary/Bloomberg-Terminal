@@ -1,18 +1,19 @@
 # Bloomberg Terminals at UNL
 
-There are 11 :desktop_computer: Bloomberg terminals located in the Trading Room (HLH 104) of the College of Busines (CoB).
+There are 12 :desktop_computer: Bloomberg Terminals located in the Trading Room (HLH 104) of the College of Busines (CoB).
 
-* CoB104-L4
-* CoB104-L8
-* CoB104-L12
-* CoB104-L16
-* CoB104-L20
-* CoB104-L24
-* CoB104-L28
-* CoB104-L36
-* CoB104-L40
-* CoB104-L44
-* CoB104-L49
+* COB104-L1 (*instructors computer*)
+* COB104-L4
+* COB104-L8
+* COB104-L12
+* COB104-L16
+* COB104-L20
+* COB104-L24
+* COB104-L28
+* COB104-L36
+* COB104-L40
+* COB104-L44
+* COB104-L49
 
 After launching the application from the Desktop and creating an account, type `BMC<GO>` to get **FREE** (normally $149 USD for students) access to the [Bloomberg Market Concepts](https://www.bloomberg.com/professional/product/bloomberg-market-concepts/) course.
 
