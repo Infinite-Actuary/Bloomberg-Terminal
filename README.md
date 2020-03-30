@@ -32,3 +32,5 @@ After launching the application from the Desktop and creating an account, type `
 ## Misc Links
 
 * [How Mike Bloomberg made his billions](https://www.vox.com/2020-presidential-election/2019/12/11/21005008/michael-bloomberg-terminal-net-worth-2020)
+
+* [A Look Back at the Bloomberg Keyboard](https://www.bloomberg.com/professional/blog/look-back-bloomberg-keyboard/)
